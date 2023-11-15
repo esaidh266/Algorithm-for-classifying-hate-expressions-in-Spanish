@@ -116,7 +116,10 @@ Más información
 ---
 
 **Readme in English**
-Algorithm for classifying hate expressions in messages in Spanish. This algorithm was developed within the framework of the Hatemedia project (PID2020-114584GB-I00), funded by MCIN/ AEI /10.13039/501100011033.
+
+Algorithm for classifying hate expressions in messages in Spanish. 
+
+This algorithm was developed within the framework of the Hatemedia project (PID2020-114584GB-I00), funded by MCIN/ AEI /10.13039/501100011033.
 
 Importing and using the model to make predictions:
 
@@ -217,7 +220,9 @@ Authors:
 - Almudena Ruiz
 - Xiomara Blanco
 - Juan José Cubillas
-- Daniel Pérez Palau 
+- Daniel Pérez Palau
+
+Financed by: State Research Agency – Ministry of Science and Innovation
 
 Supported by:
 - POSSIBLE S.L.
