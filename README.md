@@ -18,6 +18,8 @@ State Research Agency – Ministry of Science and Innovation
 With the support of:
 - POSSIBLE S.L.
 
+How to cites: Said-Hung, E., Montero-Diaz, J., De Gregorio Vicente, O., Ruiz-Iniesta, A., Blanco Valencia, X., José Cubillas, J., and Pérez Palau, D. (2023), “Algorithm for classifying hate expressions in Spanish”, figshare. https://doi.org/10.6084/m9.figshare.24574906.
+
 More information:
 - https://www.hatemedia.es/ or contact: elias.said@unir.net
 
@@ -40,6 +42,8 @@ Agencia Estatal de Investigación – Ministerio de Ciencia e Innovación
 
 Con el apoyo de:
 - POSSIBLE S.L.
+
+Como citar: Said-Hung, E., Montero-Diaz, J., De Gregorio Vicente, O., Ruiz-Iniesta, A., Blanco Valencia, X., José Cubillas, J., and Pérez Palau, D. (2023), “Algorithm for classifying hate expressions in Spanish”, figshare. https://doi.org/10.6084/m9.figshare.24574906.
 
 Más información:
 - https://www.hatemedia.es/ o contactar con:  elias.said@unir.net
